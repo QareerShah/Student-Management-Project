@@ -1,0 +1,21 @@
+{
+  "name": "qareer-student-management-project",
+  "version": "1.0.0",
+  "description": "The Qareer-ul-Ain Student Management System is a comprehensive Node.js application designed to streamline student management processes for educational institutions. This project provides a user-friendly interface to manage student enrollment, course assignments, fee payments, and student information.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
